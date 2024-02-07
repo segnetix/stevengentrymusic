@@ -6,7 +6,7 @@
         <ul>
           {% assign items = cat.items | sort: 'order' %}
           {% for item in items %}
-            <li><a href="{{ item.url | prepend: site.url | prepend: site.baseurl }}" {% if item.url == page.url %} class="colorlib-active"{% endif %}>{{ item.title }}</a></li>
+            <li><a href="{{ item.url | prepend: site.baseurl | prepend: site.url }}" {% if item.url == page.url %} class="colorlib-active"{% endif %}>{{ item.title }}</a></li>
           {% endfor %}
         </ul>
     {% endfor %}
