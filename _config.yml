@@ -23,7 +23,7 @@ email: steven@stevengentrymusic.com
 description: >- # this means to ignore newlines until "baseurl:"
   Steven Gentry is a composer.
 baseurl: "/stevengentrymusic" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://segnetix.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
