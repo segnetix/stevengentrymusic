@@ -27,7 +27,7 @@ order: 1
                                     <div class="absolute">
                                         <p><i>Untitled Project</i></p>
                                         <p>These cues are for an untitled western-themed film.</p>
-                                        <img src="{{ base.url | prepend: site.url }}/images/TWP_3.png" />
+                                        <img src="{{ base.url | prepend: site.url }}./images/TWP_3.png" />
                                     </div>
                                 </div>
                             </div>
@@ -40,9 +40,9 @@ order: 1
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/TWPMainTitle.mp3">Main Title</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/TWPTheAmbush.mp3">The Ambush</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/TWPRidingTheRange.mp3">Riding the Range</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/TWPMainTitle.mp3">Main Title</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/TWPTheAmbush.mp3">The Ambush</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/TWPRidingTheRange.mp3">Riding the Range</a></li>
                                 </ol>
                             </div>
                                                                     </div>

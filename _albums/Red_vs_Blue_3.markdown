@@ -40,7 +40,7 @@ order: 6
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/RVB3.mp3">Red vs Blue 3</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/RVB3.mp3">Red vs Blue 3</a></li>
                                 </ol>
                             </div>
                                                                     </div>

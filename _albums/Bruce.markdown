@@ -42,12 +42,12 @@ order: 5
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Bruce01.mp3">Bruce: Main Title</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Bruce02.mp3">Let's Get Out of Here</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Bruce04.mp3">How Much Longer?</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Bruce05.mp3">The Capture</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Bruce07.mp3">We've Got a Problem</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Bruce08.mp3">End Credits</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce01.mp3">Bruce: Main Title</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce02.mp3">Let's Get Out of Here</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce04.mp3">How Much Longer?</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce05.mp3">The Capture</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce07.mp3">We've Got a Problem</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce08.mp3">End Credits</a></li>
                                 </ol>
                             </div>
                                                                     </div>

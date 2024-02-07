@@ -26,7 +26,7 @@ order: 8
                                     </div>
                                     <div class="absolute">
                                         <p><i>Red vs Blue 2</i> is a very clever short film by animator Michael Lubin. RvB2 has been among the top viewed animation videos on YouTube.com.</p>
-                                        <img src="{{ base.url | prepend: site.url }}/images/RVB.jpg" />
+                                        <img src="{{ base.url | prepend: site.url }}./images/RVB.jpg" />
                                     </div>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@ order: 8
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/RVB2.mp3">Red Vs Blue 2</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/RVB2.mp3">Red Vs Blue 2</a></li>
                                 </ol>
                             </div>
                                                                     </div>

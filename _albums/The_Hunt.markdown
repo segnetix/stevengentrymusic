@@ -40,9 +40,9 @@ order: 3
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Hunt01.mp3">The Hunt: Main Title</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Hunt02.mp3">Hunting Rainsford</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}/audio/Hunt03.mp3">Epilog/End Title</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Hunt01.mp3">The Hunt: Main Title</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Hunt02.mp3">Hunting Rainsford</a></li>
+                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Hunt03.mp3">Epilog/End Title</a></li>
                                 </ol>
                             </div>
                                                                     </div>
