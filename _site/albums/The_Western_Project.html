@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Western Project</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="http://localhost:4000/css/animate.css">
+	
+	<link rel="stylesheet" href="http://localhost:4000/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="http://localhost:4000/css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="http://localhost:4000/css/magnific-popup.css">
+
+	
+	<link rel="stylesheet" href="http://localhost:4000/css/flaticon.css">
+	<link rel="stylesheet" href="http://localhost:4000/css/style.css">
+    <link rel="stylesheet" href="http://localhost:4000/css/sgm-syle.css">
+    
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.js"></script>
+	<script src="https://kit.fontawesome.com/962bbbf4f9.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://localhost:4000/js/audio.js"></script>
+	<script>
+        $(function() {
+            // Setup the player to autoplay the next track
+            var a = audiojs.createAll({
+                trackEnded: function() {
+                    var next = $('ol li.playing').next();
+                    if (!next.length) next = $('ol li').first();
+                    next.addClass('playing').siblings().removeClass('playing');
+                    audio.load($('a', next).attr('data-src'));
+                    audio.play();
+                }
+            });
+
+            // Load in the first track
+            var audio = a[0];
+            first = $('ol a').attr('data-src');
+            $('ol li').first().addClass('playing');
+            audio.load(first);
+
+            // Load in a track on click
+            $('ol li').click(function(e) {
+                e.preventDefault();
+                $(this).addClass('playing').siblings().removeClass('playing');
+                audio.load($('a', this).attr('data-src'));
+                audio.play();
+            });
+        });
+    </script>
+
+
+</head>
+  <body>
+	<div id="colorlib-page">
+		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
+		<aside id="colorlib-aside" role="complementary" class="js-fullheight">
+
+			<h1 id="colorlib-logo" class="mb-4 mb-md-5"><a href="http://localhost:4000/" style="background-image: url(/images/sheet-music.jpg);">Steven Gentry Music</a></h1>
+
+            <nav id="colorlib-main-menu" role="navigation">
+
+  
+    
+    <h4>Movies</h4>
+        <ul>
+          
+          
+            <li><a href="/albums/The_Diner.html" >The Diner</a></li>
+          
+            <li><a href="/albums/Bruce_2_Senior_Year.html" >Bruce 2: Senior Year</a></li>
+          
+            <li><a href="/albums/The_Hunt.html" >The Hunt</a></li>
+          
+            <li><a href="/albums/The_Birds.html" >The Birds</a></li>
+          
+            <li><a href="/albums/Bruce.html" >Bruce</a></li>
+          
+            <li><a href="/albums/Red_vs_Blue_3.html" >Red Vs Blue 3</a></li>
+          
+            <li><a href="/albums/Seized.html" >Seized</a></li>
+          
+            <li><a href="/albums/Red_Vs_Blue_2.html" >Red Vs Blue 2</a></li>
+          
+        </ul>
+    
+    <h4>Branding</h4>
+        <ul>
+          
+          
+            <li><a href="/albums/Diamond_Point_Media_Logo.html" >Diamond Point Media Logo</a></li>
+          
+        </ul>
+    
+    <h4>Concerts</h4>
+        <ul>
+          
+          
+            <li><a href="/albums/The_Western_Project.html"  class="colorlib-active">The Western Project</a></li>
+          
+        </ul>
+    
+</nav>
+
+            <div class="colorlib-footer">
+        <p class="pfooter"><a href="mailto:steven@stevengentrymusic.com">steven@stevengentrymusic.com</a></p>
+    <p class="pfooter">©2007-2024 Steven Gentry. All rights reserved. The audio files on this website are the property of Steven Gentry and are for demonstration purposes only. The audio content may not be used outside of this website without permission of the composer.
+</div>
+
+
+		</aside> <!-- END COLORLIB-ASIDE -->
+
+		<div id="colorlib-main">
+            <section class="ftco-section ftco-no-pt ftco-no-pb">
+    <div class="container px-md-0">
+        <div class="row d-flex no-gutters">
+            
+
+            <!--- BEGIN Right Project --->
+
+            <div class="col-md-12 portfolio-wrap">
+                <div class="row no-gutters align-items-center">
+                                                        
+                    <!-- BEGIN Info -->
+                    <div class="col-md-6 line-right">
+                        <div class="text pt-5 pl-0 px-lg-5 pl-md-4 ftco-animate">
+                            <div class="px-4 px-lg-4">
+                                <div class="desc text-md-right">
+                                    <div class="top">
+                                        <span class="subheading">2011</span>
+                                        <h2 class="mb-4">The Western Project</h2>
+                                    </div>
+                                    <div class="absolute">
+                                        <p><i>Untitled Project</i></p>
+                                        <p>These cues are for an untitled western-themed film.</p>
+                                        <img src="http://localhost:4000/images/TWP_3.png" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END Info -->
+                    
+                    <!-- BEGIN Player -->
+                        <div class="container d-flex align-items-center justify-content-center col-md-6 line-left">
+                            <div id="wrapper">
+                                <audio preload=""></audio>
+                                <ol>
+                                    <li><a href="#" data-src="http://localhost:4000/audio/TWPMainTitle.mp3">Main Title</a></li>
+                                    <li><a href="#" data-src="http://localhost:4000/audio/TWPTheAmbush.mp3">The Ambush</a></li>
+                                    <li><a href="#" data-src="http://localhost:4000/audio/TWPRidingTheRange.mp3">Riding the Range</a></li>
+                                </ol>
+                            </div>
+                                                                    </div>
+                    <!-- END Player -->
+
+                        <br clear="all" />
+<br />
+<br clear="all" />
+<br />
+                </div>
+            </div>
+            <!-- END Right Project -->
+            
+        </div>
+    </div>
+</section>
+
+		</div><!-- END COLORLIB-MAIN -->
+
+		</div><!-- END COLORLIB-PAGE -->
+
+		<!-- loader -->
+		<div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+		<script src="http://localhost:4000/js/jquery.min.js"></script>
+		<script src="http://localhost:4000/js/jquery-migrate-3.0.1.min.js"></script>
+		<script src="http://localhost:4000/js/popper.min.js"></script>
+		<script src="http://localhost:4000/js/bootstrap.min.js"></script>
+		<script src="http://localhost:4000/js/jquery.easing.1.3.js"></script>
+		<script src="http://localhost:4000/js/jquery.waypoints.min.js"></script>
+		<script src="http://localhost:4000/js/jquery.stellar.min.js"></script>
+		<script src="http://localhost:4000/js/owl.carousel.min.js"></script>
+		<script src="http://localhost:4000/js/jquery.magnific-popup.min.js"></script>
+		<script src="http://localhost:4000/js/jquery.animateNumber.min.js"></script>
+		<script src="http://localhost:4000/js/scrollax.min.js"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+		<script src="http://localhost:4000/js/google-map.js"></script>
+		<script src="http://localhost:4000/js/main.js"></script>
+		
+	</body>
+	</html>

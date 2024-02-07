@@ -1,0 +1,13 @@
+<nav id="colorlib-main-menu" role="navigation">
+
+  {% assign mypages = site.albums | group_by: 'category' %}
+    {% for cat in mypages %}
+    <h4>{{ cat.name | capitalize }}</h4>
+        <ul>
+          {% assign items = cat.items | sort: 'order' %}
+          {% for item in items %}
+            <li><a href="{{ item.url | prepend: site.baseurl }}" {% if item.url == page.url %} class="colorlib-active"{% endif %}>{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+    {% endfor %}
+</nav>
