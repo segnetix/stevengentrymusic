@@ -41,15 +41,15 @@ order: 2
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_1.mp3">Bruce 2: Main Title</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_2.mp3">Stacey</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_3.mp3">The Birth of a Villain</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_4.mp3">At the Lockers</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_5.mp3">The Abduction</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_6.mp3">The Element of Surprise</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_7.mp3">Desperate Measures</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_8.mp3">The Prom</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Bruce2_9c.mp3">End Credits</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_1.mp3">Bruce 2: Main Title</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_2.mp3">Stacey</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_3.mp3">The Birth of a Villain</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_4.mp3">At the Lockers</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_5.mp3">The Abduction</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_6.mp3">The Element of Surprise</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_7.mp3">Desperate Measures</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_8.mp3">The Prom</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Bruce2_9c.mp3">End Credits</a></li>
                                 </ol>
                             </div>
                                                                     </div>

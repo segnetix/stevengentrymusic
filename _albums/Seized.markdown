@@ -26,7 +26,7 @@ order: 7
                                     </div>
                                     <div class="absolute">
                                         <p>SEIZED is a darkly complex action-suspense film by director Daniel Selk. I scored 72 minutes of music for this film and thoroughly enjoyed the project. With cues ranging from quietly introspective for the troubled past of the main character, to mystery and suspense cues, several action set pieces, and the resolution of the film's end, there were many dramatic and emotional areas to explore in this score.</p>
-                                                                                                                <img src="{{ base.url | prepend: site.url }}./images/Seized.jpg" />
+                                                                                                                <img src="{{ site.baseurl | prepend: site.url }}/images/Seized.jpg" />
 
                                     </div>
                                 </div>
@@ -40,20 +40,20 @@ order: 7
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/01MainTitle.mp3">SEIZED: Main Title - excerpt</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/02DontLetThePastTakeYou.mp3">Don't Let the Past Take You</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/03ThePicture.mp3">The Picture</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/04EncounterWithFear.mp3">Encounter with Fear - excerpt</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/05YouAreASpy.mp3">You Are a Spy! - excerpt</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/06ThereYouAre.mp3">There You Are!</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/07JaredsSeizure.mp3">Jared's Seizure - excerpt</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/08IHaveAPlan.mp3">I Have a Plan - excerpt</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/09MattieGoesOutside.mp3">Mattie Goes Outside</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/10PastorIsGone.mp3">Pastor Is Gone?</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/11IWantedOut.mp3">I Wanted Out</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/12WorkingOnACure.mp3">Working on a Cure</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/13TheFinalConflict.mp3">The Final Conflict</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/14Epilog_EndCredits.mp3">Epilog/End Credits</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/01MainTitle.mp3">SEIZED: Main Title - excerpt</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/02DontLetThePastTakeYou.mp3">Don't Let the Past Take You</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/03ThePicture.mp3">The Picture</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/04EncounterWithFear.mp3">Encounter with Fear - excerpt</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/05YouAreASpy.mp3">You Are a Spy! - excerpt</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/06ThereYouAre.mp3">There You Are!</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/07JaredsSeizure.mp3">Jared's Seizure - excerpt</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/08IHaveAPlan.mp3">I Have a Plan - excerpt</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/09MattieGoesOutside.mp3">Mattie Goes Outside</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/10PastorIsGone.mp3">Pastor Is Gone?</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/11IWantedOut.mp3">I Wanted Out</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/12WorkingOnACure.mp3">Working on a Cure</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/13TheFinalConflict.mp3">The Final Conflict</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/14Epilog_EndCredits.mp3">Epilog/End Credits</a></li>
                                 </ol>
                             </div>
                                                                     </div>

@@ -41,11 +41,11 @@ order: 1
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/TheDiner_1.mp3">What did you just say?</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/TheDiner_2.mp3">Please, make it stop!</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/TheDiner_3.mp3">Let's see who you really are!</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/TheDiner_4.mp3">Welcome to Mickey's Diner (unused)</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/TheDiner_5.mp3">End Credits</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/TheDiner_1.mp3">What did you just say?</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/TheDiner_2.mp3">Please, make it stop!</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/TheDiner_3.mp3">Let's see who you really are!</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/TheDiner_4.mp3">Welcome to Mickey's Diner (unused)</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/TheDiner_5.mp3">End Credits</a></li>
                                 </ol>
                             </div>
                                                                     </div>

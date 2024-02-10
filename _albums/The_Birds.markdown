@@ -26,7 +26,7 @@ order: 4
                                     </div>
                                     <div class="absolute">
                                         <p><i>I've long wanted to score this classic Hitchcock film as a personal project.  </i>The Coast Route<i> is the third of seven cues that I've completed.  It covers the transition as Melanie makes the drive up the coast to Bodega Bay in her Aston Martin.  </i>The Boat Ride<i> starts with Melanie's drive from the general store to the docks and runs until her boat is floating in the bay near the Brenner house.  </i>Mitch and Melanie<i> accompanies the scene while Melanie watches Mitch's reaction from her boat.</i></p>
-                                        <img src="{{ base.url | prepend: site.url }}./images/Birds_200_88.jpg" />
+                                        <img src="{{ site.baseurl | prepend: site.url }}/images/Birds_200_88.jpg" />
                                     </div>
                                 </div>
                             </div>
@@ -39,9 +39,9 @@ order: 4
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Birds03.mp3">The Coast Route</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Birds05.mp3">The Boat Ride</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/Birds06.mp3">Mitch and Melanie</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Birds03.mp3">The Coast Route</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Birds05.mp3">The Boat Ride</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/Birds06.mp3">Mitch and Melanie</a></li>
                                 </ol>
                             </div>
                                                                     </div>

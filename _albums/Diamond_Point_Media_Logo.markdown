@@ -26,7 +26,7 @@ order: 1
                                     </div>
                                     <div class="absolute">
                                         <p>The first short fanfare was composed for Diamond Point Media's animated logo. The second sample was written as a program introduction for Jos Video Channel in the Netherlands.</p>
-                                        <img src="{{ base.url | prepend: site.url }}./images/DPM-transparent.png" />
+                                        <img src="{{ site.baseurl | prepend: site.url }}/images/DPM-transparent.png" />
                                     </div>
                                 </div>
                             </div>
@@ -39,8 +39,8 @@ order: 1
                             <div id="wrapper">
                                 <audio preload></audio>
                                 <ol>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/DPMLogo.mp3">Diamond Point Media Logo</a></li>
-                                    <li><a href="#" data-src="{{ base.url | prepend: site.url }}./audio/JosVideoTheme.mp3">Jos Video Theme</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/DPMLogo.mp3">Diamond Point Media Logo</a></li>
+                                    <li><a href="#" data-src="{{ site.baseurl | prepend: site.url }}/audio/JosVideoTheme.mp3">Jos Video Theme</a></li>
                                 </ol>
                             </div>
                                                                     </div>
