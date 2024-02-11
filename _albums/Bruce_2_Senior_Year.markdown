@@ -27,7 +27,8 @@ order: 2
                                     <div class="absolute">
                                         <p>Bruce and Lucas are back! Bigger and better than the original. In this hilarious sequel to Bruce (2011), Bruce and Lucas take on their biggest challenge yet: Senior Year!</p>
                                         <p><i>Bruce 2: Senior Year</i> took first place at the <a target="_blank" href="http://www.nffty.org/festival-highlights/nffty-2013-award-winners">2013 NFFTY Film Festival</a> in Seattle in the "Just for Laughs" category and premiered at the Muvico theater in Thousand Oaks, California on December 4, 2012.</p>
-                                        <div class="embed-responsive embed-responsive-16by9">    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YAOD1FrAGSU?si=ubsJXFu6p4TAv3nR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                        <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/YAOD1FrAGSU?si=ubsJXFu6p4TAv3nR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                 </div>
