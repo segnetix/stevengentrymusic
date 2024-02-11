@@ -28,7 +28,7 @@ order: 5
                                         <p><i>There's Super Heroes...There's American Heroes...And then there's Bruce and Lucas.</i></p>
                                         <p><i>Bruce</i> is a very funny short film from director Michael Lubin.  Two high schoolers, Bruce Hudson and Lucas Antioho, dress up as Batman and Robin and attempt to "Fight Crime" in the name of Justice.</p>
                                         <p>Bruce <i>was featured at the <a href="http://www.nffty.org">2012 NFFTY Film Festival</a> in Seattle.</i></p>
-                                        <div class="embed-responsive embed-responsive-16by9">           <iframe class="embed-responsive-item" src="http://www.youtube-nocookie.com/embed/Uxwq2-ug1J4?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <div class="embed-responsive embed-responsive-16by9">           <iframe width="560" height="315" src="https://www.youtube.com/embed/Uxwq2-ug1J4?si=jd-O_5_rnNq4KPGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                 </div>

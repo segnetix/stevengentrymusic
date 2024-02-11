@@ -26,7 +26,7 @@ order: 3
                                     </div>
                                     <div class="absolute">
                                         <p>Based on Richard Connell's short story The Most Dangerous Game, The Hunt follows the story of a young hunter (Samuel Rainsford) who mysteriously finds himself in the middle of the jungle. Upon meeting the only other human on Ship Trap Island, he finds out the true meaning behind nature's "Most Dangerous Game."</p>
-                                        <div class="embed-responsive embed-responsive-16by9">           <iframe class="embed-responsive-item" src="http://www.youtube-nocookie.com/embed/5ShKhVoYQzY?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <div class="embed-responsive embed-responsive-16by9">           <iframe width="560" height="315" src="https://www.youtube.com/embed/5ShKhVoYQzY?si=K8CHcTQPwVM7FoN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                 </div>
