@@ -7,7 +7,7 @@ layout: default
     <div class="container-fluid px-0">
         <div class="row d-flex">
             <div class="col-md-6 d-flex">
-                <div class="img d-flex align-self-stretch align-items-center js-fullheight" style="background-image:url({{ site.baseurl | prepend: site.url }}/images/about.jpg);">
+                <div class="img d-flex align-self-stretch align-items-center js-fullheight" style="background-image:url({{ site.baseurl | prepend: site.url }}/images/about.png);">
                 </div>
             </div>
             <div class="col-md-6 d-flex align-items-center">
