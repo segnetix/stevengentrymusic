@@ -26,7 +26,7 @@ order: 7
                                     </div>
                                     <div class="absolute">
                                         <p>SEIZED is a darkly complex action-suspense film by director Daniel Selk. I scored 72 minutes of music for this film and thoroughly enjoyed the project. With cues ranging from quietly introspective for the troubled past of the main character, to mystery and suspense cues, several action set pieces, and the resolution of the film's end, there were many dramatic and emotional areas to explore in this score.</p>
-                                                                                                                <img src="{{ site.baseurl | prepend: site.url }}/images/Seized.jpg" />
+                                                                                                                <img src="{{ site.baseurl | prepend: site.url }}/images/SEIZED.jpg" />
 
                                     </div>
                                 </div>
