@@ -13,7 +13,11 @@ layout: default
             <div class="col-md-6 d-flex align-items-center">
                 <div class="text px-4 pt-5 pt-md-0 px-md-4 pr-md-5 ftco-animate">
                     <h2 class="mb-4">Hello! I'm <span>Steven Gentry</span></h2>
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                    <p>Former Los Angeles area freelance musician performing with the California Philharmonic Orchestra, Pasadena Pops, Burbank Philharmonic, West Los Angeles Symphony and others.  Performed on many recording sessions for national commercials and in live concerts for artists including Tony Bennett, Olivia Newton-John, Pat Boone, Dinah Shore, Andrea Bocelli, Electric Light Orchestra and others.
+                     </p>
+                     <P>
+                     I've written several scores for film students and am currently working on several works for chamber ensemble.
+                     </p>
                 </div>
             </div>
         </div>
