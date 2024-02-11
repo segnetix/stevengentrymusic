@@ -1,8 +1,8 @@
 ---
 title: Diamond Point Media Logo
 layout: default
-category: branding
-order: 1
+category: movies
+order: 9
 ---
 
 <section class="ftco-section ftco-no-pt ftco-no-pb">

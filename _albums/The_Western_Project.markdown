@@ -1,8 +1,8 @@
 ---
 title: The Western Project
 layout: default
-category: concerts
-order: 1
+category: movies
+order: 10
 ---
 
 <section class="ftco-section ftco-no-pt ftco-no-pb">
