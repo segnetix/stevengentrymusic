@@ -1,7 +1,7 @@
 ---
 title: Red Vs Blue 3
 layout: default
-category: film scores
+category: Film Scores
 order: 6
 ---
 

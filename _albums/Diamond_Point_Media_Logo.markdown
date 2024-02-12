@@ -1,7 +1,7 @@
 ---
 title: Diamond Point Media Logo
 layout: default
-category: film scores
+category: Film Scores
 order: 9
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Diner
 layout: default
-category: film scores
+category: Film Scores
 order: 1
 ---
 
