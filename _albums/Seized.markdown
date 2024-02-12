@@ -1,7 +1,7 @@
 ---
 title: Seized
 layout: default
-category: movies
+category: film scores
 order: 7
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Western Project
 layout: default
-category: movies
+category: film scores
 order: 10
 ---
 

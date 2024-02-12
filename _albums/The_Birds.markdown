@@ -1,7 +1,7 @@
 ---
 title: The Birds
 layout: default
-category: movies
+category: film scores
 order: 4
 ---
 

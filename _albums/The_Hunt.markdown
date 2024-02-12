@@ -1,7 +1,7 @@
 ---
 title: The Hunt
 layout: default
-category: movies
+category: film scores
 order: 3
 ---
 

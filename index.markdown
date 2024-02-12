@@ -13,10 +13,10 @@ layout: default
             <div class="col-md-6 d-flex align-items-center">
                 <div class="text px-4 pt-5 pt-md-0 px-md-4 pr-md-5 ftco-animate">
                     <h2 class="mb-4">Hello! I'm <span>Steven Gentry</span></h2>
-                    <p>Former Los Angeles area freelance musician performing with the California Philharmonic Orchestra, Pasadena Pops, Burbank Philharmonic, West Los Angeles Symphony and others.  Performed on many recording sessions for national commercials and in live concerts for artists including Tony Bennett, Olivia Newton-John, Pat Boone, Dinah Shore, Andrea Bocelli, Electric Light Orchestra and others.
+                    <p>Former Los Angeles area freelance horn player performing with the California Philharmonic Orchestra, Pasadena Pops, Burbank Philharmonic, West Los Angeles Symphony, Santa Barbara Symphony, Fresno Philharmonic and others.  Performed on many recording sessions for albums and national commercials and in live concerts for artists including Tony Bennett, Olivia Newton-John, Pat Boone, Marty Paich, Dinah Shore, Andrea Bocelli, the Electric Light Orchestra and others.
                      </p>
                      <P>
-                     I've written several scores for film students and am currently working on several works for chamber ensemble.
+                     I've written several scores for film students and am currently composing orchestral and chamber ensemble music.
                      </p>
                 </div>
             </div>

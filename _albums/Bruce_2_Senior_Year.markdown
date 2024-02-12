@@ -1,7 +1,7 @@
 ---
 title: "Bruce 2: Senior Year"
 layout: default
-category: movies
+category: film scores
 order: 2
 ---
 

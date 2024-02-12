@@ -1,7 +1,7 @@
 ---
 title: The Diner
 layout: default
-category: movies
+category: film scores
 order: 1
 ---
 
@@ -25,7 +25,7 @@ order: 1
                                         <h2 class="mb-4">The Diner</h2>
                                     </div>
                                     <div class="absolute">
-                                        <p>Douglas Richardson finds HIMSELF trapped physically and mentally in this Twilight-Zone-esque psychological thriller set in the 1950's.</p>
+                                        <p>Douglas Richardson finds himself trapped physically and mentally in this Twilight-Zone-esque psychological thriller set in the 1950's.</p>
                                         <p><i>The Diner</i> was a finalist in the RØDE Reel 2014 <a href="http://www.rodemic.com/myrodereel/watch/654" >International Film Contest</a>.</p>
                                         <div class="embed-responsive embed-responsive-16by9">           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zUIGgB49GIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
